@@ -6,39 +6,27 @@ const assetUrl = (path) => `${import.meta.env.BASE_URL}${path}`
 const services = [
   {
     number: '01',
-    icon: 'social',
-    title: 'Social Media Marketing',
-    description: 'Connect with your audience through useful, engaging content on the right platforms.',
+    icon: 'web',
+    title: 'Website Designing',
+    description: 'Design a modern, responsive website tailored to your brand.',
   },
   {
     number: '02',
-    icon: 'search',
-    title: 'Search Engine Optimization',
-    description: 'Make your website and content easier to discover through search.',
+    icon: 'content',
+    title: 'Graphic Designing',
+    description: 'Create polished graphics and visual designs for your brand.',
   },
   {
     number: '03',
-    icon: 'web',
-    title: 'Website Design & Landing Pages',
-    description: 'Design modern, responsive websites and landing pages tailored to your brand and mobile visitors.',
+    icon: 'strategy',
+    title: 'Portfolio Designing',
+    description: 'Design a professional portfolio that presents your work and skills.',
   },
   {
     number: '04',
     icon: 'ads',
-    title: 'Meta & Google Ads',
-    description: 'Learn targeted paid campaign setup for Meta and Google, including audience targeting and lead forms.',
-  },
-  {
-    number: '05',
-    icon: 'content',
-    title: 'Canva Design',
-    description: 'Design engaging social posts, banners, clothing presentations, and visual creatives with Canva.',
-  },
-  {
-    number: '06',
-    icon: 'strategy',
-    title: 'AI-Powered Marketing',
-    description: 'Use ChatGPT and modern AI tools to plan smarter marketing and create useful content.',
+    title: 'Meta Ads',
+    description: 'Create and manage targeted advertising campaigns on Meta platforms.',
   },
 ]
 
