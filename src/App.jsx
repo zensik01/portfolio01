@@ -416,7 +416,7 @@ function App() {
 
     setMessagePreview(message)
     setEmailDraft(
-      `mailto:keanjan8196@gmail.com?subject=${subject}&body=${encodeURIComponent(message)}`,
+      `mailto:ranjankumar2001ee@gmail.com?subject=${subject}&body=${encodeURIComponent(message)}`,
     )
   }
 
@@ -738,9 +738,9 @@ function App() {
                   <span>Phone</span>
                   <strong>+91 82941 71400</strong>
                 </a>
-                <a href="mailto:keanjan8196@gmail.com">
+                <a href="mailto:ranjankumar2001ee@gmail.com">
                   <span>Email</span>
-                  <strong>keanjan8196@gmail.com</strong>
+                  <strong>ranjankumar2001ee@gmail.com</strong>
                 </a>
               </div>
               <nav className="social-links" aria-label="Social media profiles">
