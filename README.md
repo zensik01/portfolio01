@@ -1,4 +1,4 @@
-# Ranjan Ai Digital Marketing
+# ZENSIK
 
 A responsive, English-language website built with React, Vite, JavaScript, and CSS.
 
@@ -22,7 +22,7 @@ Stop the development server with **Ctrl+C**.
 - Website text, navigation, service cards, and contact form: `src/App.jsx`
 - Colors, layout, and responsive styles: `src/index.css` and `src/App.css`
 - Page title and search description: `index.html`
-- Logo and portrait: replace `public/images/ranjan-logo.jpeg` and `public/images/ranjan-portrait.png` with files using the same names.
+- Brand logo and portrait: `public/images/zensik-logo.png` and `public/images/ranjan-portrait.png`.
 
 The contact form prepares an email draft addressed to the contact email in `src/App.jsx`. Visitors can review and send it using their own email app. The website does not store submissions.
 
@@ -41,7 +41,7 @@ Create an empty repository on GitHub, then run these commands in the project ter
 ```sh
 git init
 git add .
-git commit -m "Build Ranjan Ai Digital Marketing website"
+git commit -m "Build ZENSIK portfolio website"
 git branch -M main
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 git push -u origin main

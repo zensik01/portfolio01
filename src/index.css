@@ -15,8 +15,8 @@
   --ink-soft: #0a0a0a;
   --paper: #171717;
   --paper-muted: #111111;
-  --gold: #d4af37;
-  --gold-bright: #ffc857;
+  --gold: #D99B24;
+  --gold-bright: #FFD76A;
   --muted: #b8b8b8;
   --text-dark: #f5f5f5;
 }
@@ -29,7 +29,7 @@ body {
   min-width: 320px;
   margin: 0;
   background:
-    radial-gradient(ellipse at 50% -18%, rgb(212 175 55 / 10%), transparent 45%),
+    radial-gradient(ellipse at 50% -18%, rgb(217 155 36 / 10%), transparent 45%),
     linear-gradient(135deg, #0a0a0a, #050505 55%, #11100c);
 }
 
@@ -68,7 +68,7 @@ textarea:focus-visible {
 
 ::selection {
   color: #050505;
-  background: #ffc857;
+  background: #FFD76A;
 }
 
 @media (prefers-reduced-motion: reduce) {
