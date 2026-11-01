@@ -428,13 +428,13 @@ function App() {
     <>
       <header className="site-header">
         <div className="header-inner page-shell">
-          <a className="brand" href="#home" onClick={closeMenu} aria-label="Ranjan Ai Digital Marketing — Home">
+          <a className="brand" href="#home" onClick={closeMenu} aria-label="ZENSIK — Home">
             <span className="brand-mark">
-              <img src={assetUrl('images/ranjan-logo.jpeg')} alt="" />
+              <img src={assetUrl('images/zensik-logo.png')} alt="" />
             </span>
             <span className="brand-copy">
-              <span className="brand-name">Ranjan Ai</span>
-              <span className="brand-caption">DIGITAL MARKETING</span>
+              <span className="brand-name">ZENSIK</span>
+              <span className="brand-caption">DESIGN. CREATE. GROW.</span>
             </span>
           </a>
 
@@ -629,7 +629,7 @@ function App() {
                 alt="Ranjan Kumar at his workspace"
                 loading="lazy"
               />
-              <span className="about-image-caption">RANJAN AI · DIGITAL MARKETING</span>
+              <span className="about-image-caption">ZENSIK · DESIGN. CREATE. GROW.</span>
             </div>
             <div className="about-copy">
               <p className="eyebrow"><span className="eyebrow-dot" /> About Me · Fresher</p>
@@ -792,15 +792,15 @@ function App() {
       <footer className="site-footer">
         <div className="footer-inner page-shell">
           <a className="brand brand--footer" href="#home">
-            <span className="brand-mark"><img src={assetUrl('images/ranjan-logo.jpeg')} alt="" /></span>
+            <span className="brand-mark"><img src={assetUrl('images/zensik-logo.png')} alt="" /></span>
             <span className="brand-copy">
-              <span className="brand-name">Ranjan Ai</span>
-              <span className="brand-caption">DIGITAL MARKETING</span>
+              <span className="brand-name">ZENSIK</span>
+              <span className="brand-caption">DESIGN. CREATE. GROW.</span>
             </span>
           </a>
           <p>Your brand&apos;s digital identity.</p>
           <a className="back-to-top" href="#home">Back to top <span aria-hidden="true">↑</span></a>
-          <span className="copyright">© {currentYear} Ranjan Ai Digital Marketing</span>
+          <span className="copyright">© {currentYear} ZENSIK</span>
         </div>
       </footer>
     </>
