@@ -140,8 +140,8 @@ const focusMissions = [
 ]
 
 const socialLinks = [
-  { name: 'Instagram', url: 'https://www.instagram.com/ranjan_kumar291/' },
-  { name: 'Facebook', url: 'https://www.facebook.com/profile.php?id=61592488077243' },
+  { name: 'Instagram', url: 'https://www.instagram.com/zensik01/' },
+  { name: 'Facebook', url: 'https://www.facebook.com/profile.php?id=61592313002488' },
   { name: 'LinkedIn', url: 'https://www.linkedin.com/in/ranjan-kumar-a86a30426/' },
   { name: 'YouTube', url: 'https://www.youtube.com/channel/UCvPH5rLCVDtwlJQ-GfC4iUA' },
   { name: 'WhatsApp', url: 'https://api.whatsapp.com/send?phone=918936844485' },
