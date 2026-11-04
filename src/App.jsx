@@ -144,7 +144,7 @@ const socialLinks = [
   { name: 'Facebook', url: 'https://www.facebook.com/profile.php?id=61592488077243' },
   { name: 'LinkedIn', url: 'https://www.linkedin.com/in/ranjan-kumar-a86a30426/' },
   { name: 'YouTube', url: 'https://www.youtube.com/channel/UCvPH5rLCVDtwlJQ-GfC4iUA' },
-  { name: 'WhatsApp', url: 'https://api.whatsapp.com/send?phone=918294171400' },
+  { name: 'WhatsApp', url: 'https://api.whatsapp.com/send?phone=918936844485' },
 ]
 
 const currentYear = new Date().getFullYear()
@@ -734,9 +734,9 @@ function App() {
                 Tell me about your brand and what you need. Start the conversation here.
               </p>
               <div className="contact-details">
-                <a href="tel:+918294171400">
+                <a href="tel:+918936844485">
                   <span>Phone</span>
-                  <strong>+91 82941 71400</strong>
+                  <strong>+91 89368 44485</strong>
                 </a>
                 <a href="mailto:ranjankumar2001ee@gmail.com">
                   <span>Email</span>
